@@ -1,0 +1,8 @@
+{
+  "id": "go-agent",
+  "name": "bot",
+  "license": "MIT",
+  "language": "golang",
+  "gamemode": "deathmatch",
+  "repourl": "https://github.com/dmahlow/ba-agent",
+}
